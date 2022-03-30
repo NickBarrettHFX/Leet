@@ -1,3 +1,5 @@
+#include "solution.h"
+
 #include <iostream>
 
 int Solution::romanToInt(string s) {        
